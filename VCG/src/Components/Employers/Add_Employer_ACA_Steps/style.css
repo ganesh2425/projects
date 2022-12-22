@@ -1,0 +1,98 @@
+.health-plan-header-styling{
+    background :#c9cdd1;
+    padding: 0.75rem 1.25rem;
+   
+    border-radius: 5px 5px 0px 0px;
+  }
+.health-plan-des-styling{
+
+    background :#c9cdd1;
+    padding: 0.75rem 1.25rem;
+   
+    
+}
+.health-ques-styling{
+
+    padding: 0.75rem 1.25rem;
+    background-color: #fff;
+    border: 0.2px solid rgb(0 0 0 / 13%);
+    font-weight: 700 !important;
+    border-top-width: 0;
+
+}
+.health-label-styling{
+
+   
+    font-weight: 700 !important;
+    
+    margin-bottom: 12px !important;
+
+}
+.health-item-styling{
+
+    padding: 0.75rem 1.25rem;
+    background-color: #fff;
+    border: 0.2px solid rgb(0 0 0 / 13%);
+    
+    border-top-width: 0;
+
+}
+button#simple-tab-0:hover {
+    color: #fff;
+    background-color: blue;
+}
+.css-1sj7edm-MuiButtonBase-root-MuiTab-root.Mui-selected {
+    color: #ffffff !important;
+    font-weight: bold;
+    background-color: #F16022 !important;
+}
+.css-1aquho2-MuiTabs-indicator{
+    background-color: #FAA32F !important;
+  
+}
+.MuiTabs-flexContainer.css-heg063-MuiTabs-flexContainer {
+    background-color: #f2f2f2;
+    /* border: 1px solid #e7e1e1; */
+}
+.tab-styling .css-1sj7edm-MuiButtonBase-root-MuiTab-root:hover {
+    background-color: #007DBA !important;
+    color: white !important;
+    
+}
+/* span.MuiTouchRipple-root.css-8je8zh-MuiTouchRipple-root {
+    border: 1px solid #e7e1e1;
+} */
+.tab-styling .css-1sj7edm-MuiButtonBase-root-MuiTab-root.Mui-selected:hover {
+    color: white !important;
+    background-color: #FAA32F !important;
+}
+
+  
+.hdg-label-popup {
+    display: none;
+    height: 80px;
+    width: 170px;
+    overflow: auto;
+  }
+  .label-popup {
+
+    height: 100px;
+    width: 170px;
+    overflow: auto;
+  }
+  
+  .icon:hover~.hdg-label-popup {
+    display: block
+  }
+
+  .infoTab{
+      width: 170px;
+      overflow: auto;
+      background: #fbfcfd;
+      
+      
+  }
+  div#pop {
+    margin-left: 60px;
+    margin-top: -20%;
+}

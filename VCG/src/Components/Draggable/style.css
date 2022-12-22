@@ -1,0 +1,12 @@
+.characters {
+    list-style-type: none;
+}
+
+.faq-question {
+    color: gray;
+}
+.hr-styling-faq{
+
+    border-top: 1px solid #ebe7e7;
+
+}

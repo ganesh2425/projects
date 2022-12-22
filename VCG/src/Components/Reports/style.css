@@ -1,0 +1,36 @@
+.reports-font-styling{
+
+    font-size:0.875rem !important;
+}
+.hr-report{
+    border-top: 1px solid #ebe7e7;
+    margin: 19px 0px;
+}
+
+.download-btn{
+    border: 1px solid rgba(172, 172, 172, 0.5)!important;
+    color: #000000!important;
+    text-transform: capitalize !important;
+}
+
+.download-btn:hover{
+    border: 1px solid rgba(172, 172, 172, 0.5)!important;
+    color: #000000!important;
+}
+.spacing{
+    margin-bottom: 10px;
+}
+
+.total-bg td {
+
+    background-color: #c9cefc;
+    font-weight: 600;
+
+}
+
+.reportDiv {
+    width: 30em;
+    overflow-x: auto;
+    white-space: nowrap;
+    width: 88%;
+}

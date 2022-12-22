@@ -1,0 +1,11 @@
+
+.submit-btn{
+    background-color: #EF3A40;
+    text-align: center;
+    background-color: #EF3A40 !important;
+    cursor: pointer;
+    color: #fff !important;
+    margin-top: 10px;
+    width: 100%;
+
+}

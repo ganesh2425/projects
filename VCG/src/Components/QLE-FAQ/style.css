@@ -1,0 +1,13 @@
+.addRole-styling{
+    border: 1px solid lightgray;
+    border-radius: 3px;
+}
+
+.intro-styling{
+
+    font-style: italic;
+    font-family: 'Rubik';
+    font-size: 1.1rem;
+    color: #818181;
+    font-weight: 400;
+}

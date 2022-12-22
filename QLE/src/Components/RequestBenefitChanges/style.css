@@ -1,0 +1,81 @@
+/* body * {
+    margin: 10px 5px
+} */
+
+.css-k9g4rn-MuiTypography-root{
+    font-size: .85rem !important
+}
+
+button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButtonBase-root.flex-end.btn-bg-red.css-2aho86-MuiButtonBase-root-MuiButton-root {
+    margin-top: 15px;
+}
+th.text-muted {
+    display: inherit;
+}
+/* .MuiGrid-root.MuiGrid-container.css-16g5rpk-MuiGrid-root {
+    margin-top: -6.0%;
+} */
+.error-span.cert {
+    margin-left: 12px;
+}
+.error-span.cert.check{
+    margin-left: 30px;
+}
+.error-span.cert.r1 {
+    margin-left: 480px;
+}
+.MuiOutlinedInput-root.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-formControl.MuiInputBase-adornedStart.css-1ns6j5k-MuiInputBase-root-MuiOutlinedInput-root {
+    height: 46px;
+}
+.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-2.MuiGrid-grid-xs-12.css-1kuc5br-MuiGrid-root {
+    margin-top: -4.0%;
+}
+.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-1.MuiGrid-grid-xs-12.input-cont.css-opxrfb-MuiGrid-root {
+    margin-top: -3.7%;
+}
+p.MuiFormHelperText-root.MuiFormHelperText-sizeMedium.MuiFormHelperText-contained.MuiFormHelperText-filled.css-6hw8l5-MuiFormHelperText-root {
+    margin-top: 20px;
+}
+.error-span.cert.d1 {
+    margin-left: 4px;
+}
+
+.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-1.MuiGrid-grid-xs-12.input-cont.css-opxrfb-MuiGrid-root {
+    margin-top: -4.5% !important;
+}
+.error-span.cert.d1 {
+    margin-left: 4px;
+    padding-bottom: 0px !important;
+}
+
+.MuiFormControl-root.MuiFormControl-fullWidth.input_amount.css-dms7x9{
+    position: relative;
+    bottom: 4rem;
+}
+.MuiOutlinedInput-root.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-formControl.css-bu7jlb-MuiInputBase-root-MuiOutlinedInput-root {
+    width: 70vh;
+}
+.MuiFormControl-root.MuiTextField-root.css-i44wyl {
+    width: 29rem;
+    margin-top: -30px;
+}
+
+
+.css-6gicuz {
+    margin: 29px 14px 0px !important;
+    position: relative;
+    bottom: 0.5rem;
+}
+
+p.MuiTypography-root.MuiTypography-body1.input-name.Enroll {
+    margin: 0.5rem 0rem;
+}
+.css-fczk9k-MuiFormHelperText-root {
+    margin: 29px 14px 0px !important;
+}
+.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-2.MuiGrid-grid-xs-12.plan {
+    margin-top: -10px;
+}
+h5.MuiTypography-root.MuiTypography-h5.ques-styling.change{
+    margin: -13px 0px;
+}

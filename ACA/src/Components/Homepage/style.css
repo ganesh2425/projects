@@ -1,0 +1,38 @@
+.landing-page-container {
+    background-image: url(/public/assets/img/main-img.jpg);
+    height: 520px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 125% 120%;
+}
+
+.landing-page-container .Lpage-heading {
+    font-size: 1.75rem;
+    padding: 8px;
+    color: #0f1941;
+    line-height: 1.2;
+}
+
+.landing-page-container .Lpage-content {
+    font-size: 1rem !important;
+    color: #0f1941;
+    
+}
+
+.landing-page-container .Lpage-button {
+    background-color: #EF3A40;
+    border: 1px solid #EF3A40;
+    border-radius: none;
+    height: 48px;
+    margin: 5px 0px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    text-transform: none;
+    font-size: 1.2rem;
+}
+
+.landing-page-container .Lpage-button:hover {
+    background-color: #FAAA43;
+    border: 1px solid #FAAA43;
+}
+a:hover{text-decoration:underline;}

@@ -1,0 +1,111 @@
+.input-name {
+    padding-left: 6px;
+    font-family: 'Poppins';
+    font-weight: 600 !important;
+}
+
+.input-cont {
+    align-items: flex-end;
+    margin: 10px 0px;
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+}
+
+.input-cont .input-item {
+    width: 10%;
+}
+
+body .c-form-title {
+    border-bottom: 1px solid lightgray;
+    justify-content: space-between;
+    min-width: 100%;
+    background-color: #f8f9fa!important;
+    padding: 7px;
+}
+.add-styling{
+
+    background: #f8f9fa !important;
+    font-family: 'Poppins'!important;
+    color: #EF3A40!important;
+    border: 1px solid #EF3A40!important;
+    padding: 1px 13px!important;
+    text-transform: capitalize!important;
+    font-weight: 400!important;
+    border-radius: 0px!important;
+    box-shadow: none!important;
+}
+
+.link-styling{
+    color: #EF3A40;
+    text-decoration: none;
+}
+.link-styling:hover{
+    color: #FAAA43;
+}
+.label-sx{
+    display: none !important;
+        margin: 7px 0px !important;
+}
+@media only screen and (max-width: 600px) {
+
+    .input-name{
+       display: none !important;
+    }
+    .hr-mview{
+        display:none !important;
+    }
+    .label-sx{
+        display: block !important;
+        margin: 7px 0px !important;
+    }
+}
+
+.MuiFormGroup-root.css-dmmspl-MuiFormGroup-root {
+    position: relative;
+    top: 39px;
+}
+
+p.MuiTypography-root.MuiTypography-body1.css-k9g4rn-MuiTypography-root {
+    /* margin-bottom: -13px; */
+    margin-left: 5px;
+}
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-md-10.css-1yysv6i-MuiGrid-root {
+    position: relative;
+    top: 35px;
+}
+
+.css-1l0ew3p {
+    margin: 0px;
+    font-weight: 400;
+    font-size: 14px !important;
+    line-height: 1.5;
+}
+
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-md-4.Event.Date {
+    display: grid;
+}
+.react-date-picker__wrapper {
+    padding: 13px 3px;
+    border-radius: 5px;
+    border: 1px solid #c9c0c0 !important;
+}
+
+.Event.Date.css-1lj5egr-MuiGrid-root {
+    position: relative;
+    bottom: 1.8rem;
+}
+.Event.Date.css-19egsyp{
+    position: relative;
+    bottom: 1rem;
+}
+span.Date {
+    font-size: 14px;
+    position: relative;
+    top: 8px;
+}
+.additional_email.css-efwuvd {
+    position: relative;
+    top: 1.47rem;
+}
+

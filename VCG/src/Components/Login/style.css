@@ -1,0 +1,34 @@
+.loginsection {
+  max-width: 480px;
+  margin: 100px auto 0 auto;
+}
+
+.shield {
+  display: block;
+  margin: 0 auto;
+}
+
+.loginblock {
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+.usernamepass {
+  padding: 13px 35px;
+  text-align: center;
+  font-size: 0.875rem !important;
+}
+
+@media screen and (max-width: 900px) {
+  .img-block {
+    display: block;
+  }
+}
+
+.submit-btn {
+  text-align: center;
+  background: #007dba;
+  cursor: pointer;
+  color: #ffff;
+  border-radius: 0.1875rem;
+}

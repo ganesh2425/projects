@@ -1,0 +1,49 @@
+body .qle-status {
+    margin: 10px;
+    padding: 10px;
+    background-color: #ffeed5;
+    border: 1px solid ffe7c4 !important;
+    color: #855917 !important;
+    font-family: 'Rubik';
+}
+
+.qle-status-text {
+    font-size: 18px;
+    color: #6c7293;
+    font-family: 'Rubik';
+
+}
+
+.muted-text-qle{
+
+    color: #6c7293 !important;
+}
+.css-17zj9qc-MuiTableContainer-root {
+    overflow: unset !important;
+}
+.ReactTable .rt-thead {
+    background-color: white;
+    position: fixed;
+    top: 1;
+    z-index: 1;
+    width: calc(100% - 17px);
+    height: 31px;
+  }
+  
+  .spinner{
+    top: 100px;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+}
+
+.css-50etie svg circle {
+    -webkit-animation: animation-1v1uyfb 1.5s ease-in-out infinite;
+    animation: animation-1v1uyfb 1.5s ease-in-out infinite;
+    stroke-dasharray: 1,200;
+    stroke-dashoffset: 0;
+    stroke-linecap: round;;
+    stroke-width: 3.5;
+    stroke: #a8d4f8 !important
+}

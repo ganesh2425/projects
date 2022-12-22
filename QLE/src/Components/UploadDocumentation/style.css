@@ -1,0 +1,62 @@
+.text-red {
+    color: red;
+}
+
+.bx-1 {
+    border-top: 2px solid lightgray;
+    padding: 8px;
+}
+
+.bx-2 {
+    border-top: 3px solid lightgray;
+    padding: 8px;
+
+}   
+
+.ans-styling {
+    margin: 10px 0px;
+}
+
+.para {
+    padding: 10px 0px;
+    font-size: 16px;
+}
+
+input[type='file'] {
+    opacity:1 
+}
+
+.add-btn {
+    font-size: 18px;
+    color: lightgray;
+    border: 2px solid gray;
+    padding: 15px 0px;
+}
+
+.disabled-text {
+    color: #ddd;
+}
+@media only screen and (max-width: 600px) {
+
+    .align-upload{
+        margin-top: 10px !important;
+    }
+}
+p.MuiTypography-root.MuiTypography-body1.text-red.css-cqlvn-MuiTypography-root {
+    cursor: pointer;
+}
+button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButtonBase-root.flex-end.btn-bg-red.css-2aho86-MuiButtonBase-root-MuiButton-root {
+    margin-top: 15px;
+}
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-md-5.choose_file {
+    position: relative;
+    left: 13px;
+}
+td {
+    position: relative;
+    left: 1.2rem;
+}
+.para2{
+    font-weight: 500;
+    margin-top: 1.5em;
+}

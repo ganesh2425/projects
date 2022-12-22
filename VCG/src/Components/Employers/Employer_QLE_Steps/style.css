@@ -1,0 +1,21 @@
+body .activeStep {
+    background-color: orangered;
+}
+.css-5ryogn-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked{
+
+    color:#ffff !important;
+
+}
+
+button.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButtonBase-root.btn.btn-success.mt-4.button {
+    position: relative;
+    left: 17rem;
+    background-color: grey;
+    color: white;
+    bottom: 3rem;
+}
+
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-md-3.upload {
+    position: relative;
+    right: 6rem;
+}

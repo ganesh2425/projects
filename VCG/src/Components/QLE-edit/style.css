@@ -1,0 +1,14 @@
+.qle-edit-header{
+    font-size: 1.5rem !important;
+}
+
+.pending-review{
+    padding: 5px 9px;
+    font-family: 'Rubik';
+ 
+    background: orange;
+    border-radius: 5px;
+    width: fit-content;
+    color: white;
+    margin-left: 3px;
+}

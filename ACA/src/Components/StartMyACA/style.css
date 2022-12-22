@@ -1,0 +1,73 @@
+.landing-page-container {
+    background: transparent url(/public/assets/img/main-img.jpg) top center no-repeat;
+    background-size: cover;
+    height: 78vh;
+}
+
+.landing-page-container .Lpage-heading {
+    font-size: 1.75rem;
+    padding: 8px;
+    color: #0f1941;
+    line-height: 1.2;
+}
+
+.landing-page-container .Lpage-content {
+    font-size: 1rem !important;
+    color: #0f1941;
+    padding: 5px;
+}
+
+.landing-page-container .Lpage-button {
+    background-color: #EF3A40;
+    border: 1px solid #EF3A40;
+    border-radius: none;
+    height: 48px;
+    margin: 5px 0px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    text-transform: none;
+    font-size: 1.2rem;
+}
+
+.landing-page-container .Lpage-button:hover {
+    background-color: #FAAA43;
+    border: 1px solid #FAAA43;
+}
+
+
+
+a{
+    text-decoration-line: none;
+}
+.MuiFormControl-root.css-q8hpuo-MuiFormControl-root {
+    margin-top: 18px;
+    margin-left: 8px;
+    width: 631px;
+}
+.css-1fy24t3-MuiButtonBase-root-MuiButton-root:hover :hover{
+    background-color: grey !important;
+    color: white !important;
+}
+button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.cancel-btn-role.css-1fy24t3-MuiButtonBase-root-MuiButton-root {
+    background-color: white;
+    color: black;
+}
+.react-date-picker__calendar.react-date-picker__calendar--open {
+    z-index: 2;
+}
+.react-date-picker__wrapper {
+    /* justify-content: space-between; */
+    padding: 13px 13px;
+    border-radius: 0px;
+    width: 19.1rem;
+}
+.error-span {
+  display: none;
+}
+.error-span.cert {
+  display: block;
+  font-size: 12px;
+  color: #d32f2f;
+  padding-bottom: 8px;
+  margin-top: 4px
+}

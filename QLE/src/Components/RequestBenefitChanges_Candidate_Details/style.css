@@ -1,0 +1,72 @@
+.input-name {
+    padding-left: 6px;
+    font-family: 'Poppins';
+    font-weight: 600 !important;
+}
+
+.input-cont {
+    align-items: flex-end;
+    margin: 10px 0px;
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+}
+
+.input-cont .input-item {
+    width: 10%;
+}
+
+body .c-form-title {
+    border-bottom: 1px solid lightgray;
+    justify-content: space-between;
+    min-width: 100%;
+    background-color: #f8f9fa!important;
+    padding: 7px;
+}
+.add-styling{
+
+    background: #f8f9fa !important;
+    font-family: 'Poppins'!important;
+    color: #EF3A40!important;
+    border: 1px solid #EF3A40!important;
+    padding: 1px 13px!important;
+    text-transform: capitalize!important;
+    font-weight: 400!important;
+    border-radius: 0px!important;
+    box-shadow: none!important;
+}
+
+.link-styling{
+    color: #EF3A40;
+    text-decoration: none;
+}
+.link-styling:hover{
+    color: #FAAA43;
+}
+.label-sx{
+    display: none !important;
+        margin: 7px 0px !important;
+}
+@media only screen and (max-width: 600px) {
+
+    .input-name{
+       display: none !important;
+    }
+    .hr-mview{
+        display:none !important;
+    }
+    .label-sx{
+        display: block !important;
+        margin: 7px 0px !important;
+    }
+}
+
+.react-date-picker__calendar {
+    margin: 10px 0px !important;
+    z-index: 2 !important;
+}
+.react-date-picker.react-date-picker--open.react-date-picker--enabled.date_picker2 {
+    position: absolute;
+    margin: -55px 0px;
+}
+

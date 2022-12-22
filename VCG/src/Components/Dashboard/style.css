@@ -1,0 +1,39 @@
+.container {
+    border: 2px solid #f2f2f2;
+    border-radius: 3px;
+    margin: 26px 0px;
+}
+
+.container .dashboard-heading {
+    padding: 12px 10px;
+    border: 1px solid #dfdfdf;
+
+}
+
+.container .boxes {
+    margin: 20px 19px;
+    border-radius: 3px;
+ 
+}
+.boxes:hover {
+    margin: 20px 19px;
+    border-radius: 3px;
+    /* border-bottom: 13px solid #faa32f; */
+    background: #808185;
+}
+
+.changeOnHover:hover {
+    border-bottom: 13px solid #808185;
+}
+
+.dashboard-icon {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    margin: 20px 9px 20px 8px;
+}
+.cards-font{
+    font-size: 14px !important;
+    font-weight: 600 !important;
+}

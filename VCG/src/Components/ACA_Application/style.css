@@ -1,0 +1,56 @@
+
+.box{
+    background-color: aqua;
+}
+
+/* stage -css */
+.MuiSelect-select.MuiSelect-outlined.MuiOutlinedInput-input.MuiInputBase-input.css-qiwgdb {
+    margin-left: 10px !important;
+}
+
+ul.MuiList-root.MuiList-padding.MuiMenu-list.css-r8u8y9 {
+    display: flex !important;
+    flex-direction: column;
+    padding: 3px !important;
+}
+li.MuiMenuItem-root.MuiMenuItem-gutters.MuiButtonBase-root.css-172e7cu {
+    display: inline-block;
+    margin-left: 10px !important;
+    margin-top: 7px !important;
+}
+/* local file */
+/*.MuiSelect-select.MuiSelect-outlined.MuiOutlinedInput-input.MuiInputBase-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+    margin-left:10px !important;
+}
+
+
+ul.MuiList-root.MuiList-padding.MuiMenu-list.css-6hp17o-MuiList-root-MuiMenu-list {
+    display: flex !important;
+    flex-direction: column;
+    padding: 3px !important;
+}
+
+li.MuiMenuItem-root.MuiMenuItem-gutters.MuiButtonBase-root.css-19nexhj-MuiButtonBase-root-MuiMenuItem-root {
+    display: inline-block;
+    margin-left: 10px !important;
+    margin-top: 7px !important;
+}*/
+
+
+.spinner{
+    top: 100px;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+}
+
+.css-50etie svg circle {
+    -webkit-animation: animation-1v1uyfb 1.5s ease-in-out infinite;
+    animation: animation-1v1uyfb 1.5s ease-in-out infinite;
+    stroke-dasharray: 1,200;
+    stroke-dashoffset: 0;
+    stroke-linecap: round;;
+    stroke-width: 3.5;
+    stroke: #a8d4f8 !important
+}

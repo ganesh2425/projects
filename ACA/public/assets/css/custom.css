@@ -1,0 +1,225 @@
+.active {
+    background-color: #EF3A40 !important;
+    padding: 3px 20px !important;
+    border-radius: 0 !important;
+    color: #ffff !important;
+    font-weight: 400 !important;
+}
+
+.card-header {
+    background-color: #EF3A40;
+    color: #fff;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 0;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+    border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+}
+
+.startmyqle {
+    background-color: #EF3A40 !important;
+    border-color: #EF3A40 !important;
+    padding: 0.5rem 1rem!important;
+    font-size: 1.25rem !important;
+    line-height: 1.5!important;
+    border-radius: 0 !important;
+    text-transform: capitalize !important;
+    font-family: 'Poppins';
+    font-weight: 400!important;
+}
+
+.startmyqle:hover {
+    background-color: #FAAA43 !important;
+    border-color: #FAAA43 !important;
+}
+
+.customlink-btn {
+    border: 1px solid #EF3A40 !important;
+    border-radius: 0 !important;
+    padding: .25rem .5rem!important;
+    color: #EA3F40 !important;
+    font-size: 14px !important;
+    text-transform: capitalize !important;
+}
+
+.navbar-qle {
+    background-color: #0f1941 !important;
+}
+
+.loginsection {
+    max-width: 420px;
+    margin: 0 auto 0 auto;
+}
+
+.shield {
+    display: block;
+    margin: 0 auto;
+}
+
+.loginblock {
+    background-color: #FFFFFF;
+    padding: 10px;
+}
+
+.usernamepass {
+    padding: 13px 35px;
+    text-align: center;
+    font-size: .875rem !important;
+}
+
+.submit-btn {
+    text-align: center; 
+    background-color: #EF3A40;
+    cursor: pointer;
+}
+
+.submit-btn:hover{
+    background-color: #FAAA43;
+    color:#fff;
+}
+
+.submit-btn > button {
+    color: #FFFFFF !important;
+    text-transform: capitalize !important;
+    font-size: 1rem;
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+}
+
+.p-15 {
+    padding: 3px 20px !important;
+}
+
+.resend-otp-btn {
+    text-align: center;
+    cursor: pointer;
+    color: #EF3A40;
+    
+    margin-top: 10px;
+}
+
+.resend-otp-btn > button {
+    text-transform: capitalize;
+    color: #EF3A40;
+    /* border-bottom: 1px solid #EF3A40; */
+}
+
+.resend-otp-btn > button:hover {
+    color: #FAAA43;
+}
+
+.resendotpalert {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    padding: 0.75rem 1.25rem;
+    text-align: center;
+    font-size: .875rem !important;
+}
+
+@media only screen and (max-width: 900px) {
+    .img-block {
+        display: none;
+    }
+  }
+
+.bg {
+    min-height: 37px !important;
+    background-color: #EF3A40 !important;
+    /* margin: 10px 0px !important; */
+}
+
+.contact-us {
+    text-align: center;
+    padding-top: 3rem !important;
+}
+
+.email-address {
+    color: #EF3A40;  
+}
+
+.email-address:hover {
+    color: #FAAA43;
+}
+
+.contactus-block {
+    padding: 15px;
+}
+
+.contact-details {
+    font-size: 1.5rem !important;
+}
+
+.contactsection {
+    min-height: 70vh;
+    background-color: #FFFFFF;
+}
+
+.faq-text-styling{
+
+    font-size: 1.25rem !important;
+    color:#fff;
+
+
+}
+.header-text-styling{
+font-weight: 500;
+color:aliceblue;
+
+}
+.customlink-btn:hover{
+
+    background-color: #FAAA43 !important;
+    border-color: #EF3A40 !important;
+    color: #fff !important;
+}
+.faq-subText-styling{
+    font-size: .875rem !important;
+}
+.home-p{
+    font-size: .875rem !important;
+    padding: 10px 0px !important;
+}
+.header-styling{
+    font-weight: 400!important;
+}
+.impt-msg{
+    color: #dc3545;
+    font-size: .875rem !important; 
+    font-weight:500 !important;
+    padding:6px 0px;
+
+    
+}
+.resend-styling{
+    font-weight: 500 !important;
+    font-family: 'Poppins';
+}
+
+.step-styling {
+    color: #EF3A40;
+    font-size: 1.3rem;
+    font-family: 'Poppins';
+}
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-active{
+    color: #EF3A40 !important;
+    height: 33px;
+    width: 50px;
+
+}
+
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root{
+    
+    height: 33px !important;
+    width: 50px !important;
+
+}
+
+.disable-styling{
+    background-color: #e9ecef !important;
+    color: #495057!important;
+}
+.agree-styling{ 
+
+    font-size: .875rem !important;
+}

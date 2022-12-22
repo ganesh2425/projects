@@ -1,0 +1,126 @@
+.flex {
+    display: flex;
+}
+
+.line {
+    flex-grow: 1;
+    flex-basis: 32px;
+    flex-shrink: 0;
+}
+
+.qle-input {
+    border: 1px solid lightgrey;
+}
+
+.content {
+    width: 95%;
+    margin: auto;
+}
+
+.py-10 {
+    padding: 10px 0;    
+}
+
+.flex-end {
+    float: right;
+    font-family: 'Poppins';
+    border-radius: 0 !important;
+}
+
+/* .btn-bg-red:hover {
+    background-color: red;
+} */
+
+.steps-inst-styling{
+
+    text-align: right;
+    font-style: italic; 
+}
+
+.layout-padding{
+    padding: 2rem 3rem 4rem 3rem;
+    background-color: white;
+    margin-bottom: 2rem;
+}
+
+.step-txt-styling{
+
+    font-size: 18px;
+    color: #dc3545 !important;
+}
+
+.section-heading{
+    font-family: 'Poppins';
+    font-size: .875rem!important;
+    font-weight: 500!important;
+}
+
+.section-sub-heading{
+    font-family: 'Poppins';
+    font-size: .875rem!important;
+    margin-top: 12px!important;
+}
+
+.hr-styling{
+    margin-top: 0.4rem;
+    margin-bottom: 1rem;
+    border-top: 1px solid rgba(0,0,0,.1);
+}
+.section-sub-heading-styling{
+    font-family: 'Poppins';
+    font-size: .875rem!important;
+}
+.section-agree-styling{
+    font-weight: 600 !important;
+    font-size: .875rem!important;
+
+}
+
+.seq-styling{
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    padding: 6px;
+    border-radius: 50rem;
+    color: #fff;
+    margin: 10px auto;
+    width: 1.4rem;
+}
+
+.red {
+    background-color: #EF3A40 !important;
+}
+
+.pending-review {
+    font-size: 1.25rem;
+    color:#007bff!important;
+
+}
+
+@media only screen and (max-width: 600px) {
+
+    .header-styling{
+
+        font-size: 20px !important;
+    }
+    .step-styling {
+        color: #EF3A40;
+        font-size: 14px;
+        font-family: 'Poppins';
+        font-weight: 600;
+    }
+
+    .layout-padding{
+        padding: 2rem 1rem 4rem 1rem;
+        background-color: white;
+        margin-bottom: 2rem;
+    }
+    
+    .steper-hide{
+        display: none!important;
+    }
+
+}
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed{
+    color: #EF3A40 !important;
+}
